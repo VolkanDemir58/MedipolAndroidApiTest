@@ -1,0 +1,2 @@
+# MedipolAndroidApiTest
+TestApisidir
