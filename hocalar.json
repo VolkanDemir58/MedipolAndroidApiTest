@@ -1,34 +1,34 @@
 [{
  "AdiSoyadi": "Prof.Dr. Mehmet İPŞİRLİ",
  "Eposta": "mipsirli@medipol.edu.tr",
- "ResimURL": "https://raw.githubusercontent.com/kaon2730/MedipolAndroidApiTest/main/mehmet.png",
+ "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/mehmet.png",
  "VerdigiDers": "Fizik"
 },
  
  {
    "AdiSoyadi": "Dr.Öğr.Üye. Hande YILMAZ",
    "Eposta": "handeyilmaz@medipol.edu.tr",
-   "ResimURL": "https://raw.githubusercontent.com/kaon2730/MedipolAndroidApiTest/main/hande.png",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/hande.png",
    "VerdigiDers": "Yapay Zeka"
  },
  
  {
    "AdiSoyadi": "Muhammet ÇAĞATAY",
    "Eposta": "muhammet@medipol.edu.tr",
-   "ResimURL": "https://raw.githubusercontent.com/kaon2730/MedipolAndroidApiTest/main/muhammet.png",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/muhammet.png",
    "VerdigiDers": "Kotlin ile İleri Android Programlama"
  },
  
  {
    "AdiSoyadi": "Beyza Koyulmuş",
    "Eposta": "beyza@medipol.edu.tr",
-   "ResimURL": "https://raw.githubusercontent.com/kaon2730/MedipolAndroidApiTest/main/beyza.png",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/beyza.png",
    "VerdigiDers": "Mobil Yazılımlar"
  },
  {
  "AdiSoyadi": "Öğr.Gör. Hatice ÇAY",
  "Eposta": "hcay@medipol.edu.tr",
- "ResimURL": "https://i1.rgstatic.net/ii/profile.image/11431281110800147-1672765473007_Q512/Hatice-Cay.jpg",
+ "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/hatice.png",
  "VerdigiDers": "Matematik"
 },
  
