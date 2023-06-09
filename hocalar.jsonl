@@ -2,26 +2,31 @@
     {
         "AdiSoyadi": "Renault Austral",
         "Eposta": "renault@gmail.com",
-        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/renault.jpg"
+        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/renault.jpg",
+        "description": "Renault Austral, güçlü performansı ve şık tasarımıyla dikkat çeken bir otomobildir."
     },
     {
         "AdiSoyadi": "Opel Astra",
         "Eposta": "Opel@gmail.com",
-        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/opel.jpg"
+        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/opel.jpg",
+        "description": "Opel Astra, konforlu sürüş deneyimi ve yenilikçi özellikleriyle tanınan bir otomobildir."
     },
     {
         "AdiSoyadi": "Seat Leon",
         "Eposta": "seat@gmail.com",
-        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/seat.jpg"
+        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/seat.jpg",
+        "description": "Seat Leon, sportif ve dinamik bir tasarıma sahip olan kompakt bir hatchback otomobildir."
     },
     {
         "AdiSoyadi": "Volvo V40",
         "Eposta": "volvo@gmail.com",
-        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/volvo.jpg"
+        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/volvo.jpg",
+        "description": "Volvo V40, şık ve modern tasarımıyla öne çıkan güvenli bir otomobildir."
     },
     {
         "AdiSoyadi": "Togg",
         "Eposta": "togg@gmail.com",
-        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/togg.jpg"
+        "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/togg.jpg",
+        "description": "Togg, Türkiye'nin yerli otomobili olarak üretilen bir otomobildir ve ileri teknoloji özellikleriyle dikkat çeker."
     }
 ]
