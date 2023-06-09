@@ -1,0 +1,34 @@
+[{
+ "AdiSoyadi": "Renault Austral",
+ "Eposta": "renault@gmail.com",
+ "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/renault.jpg",
+},
+ 
+ {
+   "AdiSoyadi": "Opel Astra",
+   "Eposta": "Opel@gmail.com",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/opel.jpg",
+  
+ },
+ 
+ {
+   "AdiSoyadi": "seat leon",
+   "Eposta": "seat@gmail.com",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/seat.jpg",
+ 
+ },
+ 
+ {
+   "AdiSoyadi": "volvo v40",
+   "Eposta": "volvo@gmail.com",
+   "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/volvo.jpg",
+  
+ },
+ {
+ "AdiSoyadi": " Togg",
+ "Eposta": "togg@gmail.com",
+ "ResimURL": "https://raw.githubusercontent.com/VolkanDemir58/MedipolAndroidApiTest/main/togg.jpg",
+ 
+},
+ 
+]
